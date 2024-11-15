@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @sagarjanawad0
+- 👋 Hi, I’m Sagar Janawad
 - 👀 I’m interested in Ethical Hacking | Penetration testing | Code development | Python programming  
 - 🌱 I’m currently learning DSA  
 - 💞️ I’m looking to collaborate on Domains based on my interests   
